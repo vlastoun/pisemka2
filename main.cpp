@@ -43,7 +43,7 @@ void Ukol(const bool arr[N][N]) {
 			}
 			j++;
 		}
-		cout << pozice << " " << maxdelka << endl;
+		cout << "Pozice:" << pozice << " Delka: " << maxdelka << endl;
 	}
 }
 
