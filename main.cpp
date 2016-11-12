@@ -56,11 +56,11 @@ void PrintColony(const bool arr[N][N]) {
 		{
 			if (arr[i][j])
 			{
-				cout << "X";
+				cout << "X ";
 			}
 			else
 			{
-				cout << "_";
+				cout << "- ";
 			}
 		}
 		cout << endl;

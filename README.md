@@ -1,8 +1,8 @@
 # pisemka2
 ## Zadani:
 ### Máte danou kolonii bunek
-X---- ziva bunka
-_---- mrtva bunka
+X...... ziva bunka<br />
+-...... mrtva bunka<br />
 
 X__XXXX_XX<br />
 X__XX_XXXX<br />
